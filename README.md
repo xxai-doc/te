@@ -7,3 +7,4 @@
 * [ఫ్రంట్-ఎండ్ కోడ్](https://github.com/xxai-art/web)
 * [మొత్తం సైట్ కోసం భాషా ప్యాక్‌లు](https://github.com/xxai-art/web/tree/main/i18n)
 * [లాగిన్ మాడ్యూల్స్ కోసం భాషా ప్యాక్‌లు](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [వెబ్‌సైట్ బహుభాషా డాక్యుమెంటేషన్](https://github.com/xxai-doc)
